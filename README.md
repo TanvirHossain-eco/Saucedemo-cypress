@@ -25,9 +25,11 @@ npx cypress open > E2E Testing > Select a browser > Start E2E Testing > From the
 
 <!-- Git Repository -->
 1. git init
-2. git commit -m "Your Custom Message"
+2. git add .
+3. git status
+4. git commit -m "Your Custom Message"
 <!-- Execute the number 3 for the first time only -->
-3. git branch -M master
+5. git branch -M master
 <!-- Execute the number 4 for the first time only -->
-4. git remote add origin https://github.com/TanvirHossain-eco/Saucedemo-cypress.git
-5. git push -u origin master
+6. git remote add origin https://github.com/TanvirHossain-eco/Saucedemo-cypress.git
+7. git push -u origin master
